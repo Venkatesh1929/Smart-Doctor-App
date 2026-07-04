@@ -1,7 +1,12 @@
-# Ignore large datasets
-Data_Sets/
+# Ignore datasets
+Smart Doctor/Data_Sets/
 *.csv
-*.py
+*.__pycache__
+
+# Ignore CSV files
+*.csv
+
+Smart Doctor/disease_prescription.json
 
 # Ignore trained models
 *.pkl
