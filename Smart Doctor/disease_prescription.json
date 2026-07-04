@@ -1,0 +1,17 @@
+{
+  "Viral Fever": {
+    "medicine": "Paracetamol 500mg every 6 hours if fever persists.",
+    "advice": "Take rest, drink fluids, and avoid cold food.",
+    "precautions": "Monitor temperature regularly and avoid self-medication."
+  },
+  "Typhoid": {
+    "medicine": "Antibiotics prescribed by doctor, maintain hydration.",
+    "advice": "Eat light food, drink boiled water.",
+    "precautions": "Avoid outside food and maintain hygiene."
+  },
+  "Dengue": {
+    "medicine": "Avoid aspirin, take paracetamol, stay hydrated.",
+    "advice": "Drink coconut water, rest well, monitor platelets.",
+    "precautions": "Avoid mosquito bites."
+  }
+}

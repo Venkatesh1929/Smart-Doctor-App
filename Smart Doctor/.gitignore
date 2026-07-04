@@ -1,0 +1,19 @@
+# Ignore large datasets
+Datasets/
+*.csv
+
+# Ignore trained models
+*.pkl
+*.joblib
+*.h5
+
+# Ignore virtual environment
+venv/
+__pycache__/
+
+# Ignore images generated
+*.png
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
