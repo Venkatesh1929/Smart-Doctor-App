@@ -1,5 +1,5 @@
 # Ignore large datasets
-Datasets/
+Data_Sets/
 *.csv
 
 # Ignore trained models
