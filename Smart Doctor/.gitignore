@@ -1,6 +1,7 @@
 # Ignore large datasets
 Data_Sets/
 *.csv
+*.py
 
 # Ignore trained models
 *.pkl
@@ -17,3 +18,4 @@ __pycache__/
 # Ignore OS files
 .DS_Store
 Thumbs.db
+
